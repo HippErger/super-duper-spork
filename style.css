@@ -5,3 +5,7 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #e327a7;
 }
+
+body {
+    background-color: black;
+}
